@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @sh1r0y4sh4
-- 👾 I’m interested in learning anything related to CyberSec/InfoSec
-- 👨‍💻 I’m currently learning Python
-- I play CTFs on platforms like THM (and soon HTB)
+- 👋 Hi, I’m a fellow Cyber Security Enthusiast, more focused on the Offensive side.
+- 📚 I’m interested in learning anything related to CyberSec/InfoSec
+- 👨‍💻 I’m currently (still) learning Python
+- 👾 I play CTFs on platforms like THM (and soon HTB) to expand my knowledge.
 
 <!---
-sh1r0y4sh4/sh1r0y4sh4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+0x00KayoS/0x00KayoS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
