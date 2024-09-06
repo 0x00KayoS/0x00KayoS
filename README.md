@@ -1,7 +1,7 @@
 👨‍💻 About Me
 - 👋 Hello World, I’m a fellow Cyber Security Enthusiast, more focused on the Offensive side.
 - 📚 I’m interested in anything related to PenTesting, Red Teaming and Bug Bounty
-- 👨‍💻 I’m currently (still) learning Python
+- 👨‍💻 I’m currently exploiting AD
 - 👾 I play CTFs on platforms like THM (and soon HTB) to expand my knowledge.
 - 🏅 For now I only hold the eJPTv2 certification (https://certs.ine.com/886760e9-df8f-4884-94ad-89cc7871a5a0)
 - You can contact me on my Linkedin profile: https://www.linkedin.com/in/bernardo-catana/
