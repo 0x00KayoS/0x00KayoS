@@ -1,7 +1,7 @@
 👨‍💻 About Me
 - 👋 Hello World, I’m a fellow Cyber Security Enthusiast, more focused on the Offensive side.
 - 📚 I’m interested in anything related to PenTesting, Red Teaming and Bug Bounty
-- 👨‍💻 I’m currently exploiting AD
+- 👨‍💻 I’m currently focusing on Web
 - 👾 I play CTFs on platforms like THM (and soon HTB) to expand my knowledge.
 - 🏅 Certs:\
 eJPTv2 (https://certs.ine.com/886760e9-df8f-4884-94ad-89cc7871a5a0) \
